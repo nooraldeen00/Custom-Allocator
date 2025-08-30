@@ -1,4 +1,6 @@
 # ⚙️ Custom-Allocator
+<img width="300" height="300" alt="Custom-Allocator" src="https://github.com/user-attachments/assets/bfe9038d-a182-4b2e-aa61-dcca797bf9a5" />
+
 A custom memory allocator written in C that re-implements malloc, free, calloc, and realloc.
 The project demonstrates low-level heap management, pointer arithmetic, and memory optimization strategies, benchmarked against the standard malloc() provided by the C library.
 
